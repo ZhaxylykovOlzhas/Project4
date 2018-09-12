@@ -1,0 +1,7 @@
+C:\Users\ЖаксылыковО\source\repos\Practice4\Practice4\bin\Debug\Practice4.exe.config
+C:\Users\ЖаксылыковО\source\repos\Practice4\Practice4\bin\Debug\Practice4.exe
+C:\Users\ЖаксылыковО\source\repos\Practice4\Practice4\bin\Debug\Practice4.pdb
+C:\Users\ЖаксылыковО\source\repos\Practice4\Practice4\obj\Debug\Practice4.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\source\repos\Practice4\Practice4\obj\Debug\Practice4.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\source\repos\Practice4\Practice4\obj\Debug\Practice4.exe
+C:\Users\ЖаксылыковО\source\repos\Practice4\Practice4\obj\Debug\Practice4.pdb
